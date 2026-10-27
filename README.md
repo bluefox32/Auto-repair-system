@@ -4,7 +4,7 @@ An LLM-assisted auto-repair system manager in Python (repository description: "S
 
 ## Contents
 
-- `AUTO_REPAIR_GUIDE.md`
+- `docs/AUTO_REPAIR_GUIDE.md`
 - `auto_repair_system.py` - Main implementation.
 - `github_drive_integration.py`
 
